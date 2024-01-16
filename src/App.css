@@ -8,6 +8,10 @@
 }
 
 
+body{
+  background-color: rgb(42, 73, 149);
+  /* color: rgb(201, 229, 239); */
+}
 img{
   width: 200px;
 }
