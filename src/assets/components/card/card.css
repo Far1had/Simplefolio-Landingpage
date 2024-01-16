@@ -1,0 +1,34 @@
+#divCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+#divCardS{
+    font-family: popins-bold;
+    border-radius: 19px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: rgb(59, 70, 104);
+    color: rgb(180, 189, 221);
+    font-size: 0.8rem;
+    
+}
+
+h2{
+
+    color: rgb(213, 218, 233);
+    font-family: popins-bold;
+    display: flex;
+    justify-content: center;
+
+  
+    
+}

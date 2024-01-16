@@ -5,11 +5,11 @@
     justify-content: space-between;
     margin: 0.25em;
     gap: 30px;
-    color: rgb(200, 200, 230);
+    color: rgb(195, 207, 227);
 }
 
 a{
-    color: azure;
+    color: rgb(196, 213, 227);
     text-decoration: none;
     font-family: popins;
     font-size: 0.8rem;

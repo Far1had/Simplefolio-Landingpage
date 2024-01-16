@@ -1,0 +1,31 @@
+#divHaupt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#h1Ha{
+    font-size: 2rem;
+    color: rgb(180, 205, 227);
+}
+span{
+    color: rgb(105, 105, 204);
+}
+h5{
+    font-size: 1rem;
+    font-family: popins-bold;
+    color: rgb(213, 218, 233);
+}
+p{
+    font-family: popins;
+    font-size: 0.7rem;
+    color: rgb(213, 218, 233);
+}
+
+button{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(53, 64, 94);
+    color: rgb(158, 158, 211);
+    border: 1px solid rgb(139, 139, 203);
+}
