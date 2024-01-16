@@ -2,23 +2,22 @@
 import "../header/header.css"
 
 const Header = () => {
-    return ( 
+    return (
 
         <>
-        <div>
-            <h1>JS.</h1>
-            <nav>
-                <ul>
-                    <li><a href="projects">projects</a></li>
-                    <li><a href="skills">skills</a></li>
-                    <li><a href="contact">contact</a></li>
-                </ul>
-            </nav>
-        </div>
+            <header>
+                <div id="div">
+                    <h1 id="logo">JS.</h1>
+                    <nav id="nav">
+                        <a href="projects">projects</a>
+                        <a href="skills">skills</a>
+                        <a href="contact">contact</a>
+                    </nav>
+                </div>
+            </header>
 
-        
         </>
-     );
+    );
 }
- 
+
 export default Header;

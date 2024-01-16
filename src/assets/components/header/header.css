@@ -1,4 +1,26 @@
-h1{
-    color: rgb(201, 234, 250);
-  }
   
+  #div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0.25em;
+    gap: 30px;
+    color: rgb(200, 200, 230);
+}
+
+a{
+    color: azure;
+    text-decoration: none;
+    font-family: popins;
+    font-size: 0.8rem;
+}
+
+#nav{
+    display: flex;
+    gap: 1rem;
+    
+}
+
+img{
+    height: 1.5em;
+}
