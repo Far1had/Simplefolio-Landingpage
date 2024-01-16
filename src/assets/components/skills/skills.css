@@ -29,6 +29,7 @@ button{
     height: 30px;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
    
 }
 section{
