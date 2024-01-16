@@ -8,7 +8,7 @@ const Haupt = () => {
             <h5>A Front End Developer.</h5>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum minus soluta rem distinctio consequatur quaerat corrupti obcaecati suscipit, dignissimos, beatae ipsam amet aut unde ipsa error atque fugiat. Obcaecati, ea!</p>
 
-            <button>
+            <button id="but">
                 resume
             </button>
 

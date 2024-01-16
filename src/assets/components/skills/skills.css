@@ -3,8 +3,37 @@ h2{
     color: rgb(213, 218, 233);
     font-family: popins-bold;
     display: flex;
+    justify-content: center;  
+}
+#btn{
+    display: flex;
+    flex-direction: column;
     justify-content: center;
-
-  
+    width: 50vw;
+    gap: 10px;
+}
+#btn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+button{
+    display: flex;
+    background-color: rgb(53, 64, 94);
+    color: rgb(170, 186, 232);
+   
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
+
+
+
+
+
